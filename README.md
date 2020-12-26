@@ -3,6 +3,9 @@
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Tacosheel/Heroku-Static-Site?style=flat-square) ![GitHub](https://img.shields.io/github/license/Tacosheel/Heroku-Static-Site?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/Tacosheel/Heroku-Static-Site?style=flat-square)
 
+# Deploy
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tacosheel/Heroku-Static-Site)
 
 # Steps
 1. Add a file called ```composer.json``` and inside add: ```{}```
