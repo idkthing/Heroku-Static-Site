@@ -1,7 +1,9 @@
 # Heroku Static Website
 #### A tutorial on making a static website on Heroku
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Tacosheel/Heroku-Static-Site?style=flat-square) ![GitHub](https://img.shields.io/github/license/Tacosheel/Heroku-Static-Site?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/Tacosheel/Heroku-Static-Site?style=flat-square)
+![GitHub](https://img.shields.io/github/license/Tacosheel/heroku-static-site?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Tacosheel/heroku-static-site?style=for-the-badge)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fherokustaticsite.herokuapp.com%2F)
 
 # Steps
 1. Add a file called ```composer.json``` and inside add: ```{}```
